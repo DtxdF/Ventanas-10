@@ -9,8 +9,6 @@ Ventanas-10 is a fork of the [B00merang-Project's Windows-10](https://github.com
 
 ## License
 
-This project is distributed under the terms of the GNU General Public License, version 3 or later (GPLv3+).
-
 See the `LICENSE` file for the full license text.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
